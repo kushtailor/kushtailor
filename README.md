@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Kush Tailor 👋</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | Cybersecurity & Digital Forensics</h3>
 
-
-### 🔭 About Me
-
 ## 👋 About Me
 
 I'm a cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, and security research. I enjoy identifying vulnerabilities, understanding attack methodologies, and exploring practical approaches to securing modern applications and networks.
@@ -17,21 +14,21 @@ I'm passionate about contributing to the cybersecurity community, building secur
 
 ---
 
-### 🎯 Pentesting & Bug Hunting Experience
+### Pentesting & Bug Hunting Experience
 
 - Conducted security assessments on web applications (including Bisleri), uncovering **authentication weaknesses** and flaws in OTP verification workflows
 - Identified backend database errors indicating potential **SQL injection** vulnerabilities 
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - **INE eJPTv2** — Junior Penetration Tester
 - **CompTIA Network+**
 
 ---
 
-🛠️ Tech Stack
+ Tech Stack
 
 • Burp Suite Professional
 • Kali Linux
