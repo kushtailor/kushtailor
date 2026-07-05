@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kush 👋</h1>
-<h3 align="center">Cybersecurity Student | Penetration Testing & ML-Based Threat Detection</h3>
+<h3 align="center">Cybersecurity Student | VAPT | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+networks+to+build+better+defenses;Pentesting+%7C+Network+Security+%7C+ML+Threat+Detection;Kali+Linux+%7C+Python+%7C+SDN" alt="Typing SVG" />
@@ -9,12 +9,13 @@
 
 ### 🔭 About Me
 
-- 🎓 Cybersecurity student specializing in **penetration testing**, **network security**, and **ML-based threat detection**
-- 🛠️ I build tools that combine offensive security techniques with machine learning to detect and defend against network-based attacks
-- 🐧 Most of my work happens in **Kali Linux VM lab environments**
-- 🌱 Currently exploring **SDN security**, **Active Directory attack chains**, and **intrusion detection systems**
-- 💬 Ask me about pentest automation, DHCP-based attacks, Kerberoasting, or building ML-driven IDS pipelines
+I am an aspiring Cybersecurity Professional currently pursuing a Master's in Cyber Security & Digital Forensics with a strong interest in Ethical Hacking, Penetration Testing, and Security Research.
 
+My experience includes conducting web application security assessments, vulnerability analysis, network reconnaissance, and participating in Capture The Flag (CTF) challenges to strengthen practical offensive security skills. I enjoy understanding how vulnerabilities are discovered, exploited responsibly, and mitigated effectively.
+
+I am passionate about continuous learning and actively explore emerging attack techniques, security tools, and industry best practices. Through personal projects and hands-on labs, I aim to develop practical expertise while contributing to building more secure digital environments.
+
+Outside of academics, I spend my time learning new technologies, improving my scripting skills, and expanding my knowledge across offensive security and digital forensics.
 ---
 
 ### 🚀 Featured Projects
@@ -41,17 +42,12 @@ A CLI penetration testing automation framework supporting port scanning, subdoma
   <img src="https://img.shields.io/badge/Nmap-4A154B?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLMap-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+Get In Touch
 
-<p align="left">
-  <a href="mailto:kushntailor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kush-tailor-169a26296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kushtailor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+Email: kushntailor2612@gmail.com
+LinkedIn: kush-tailor
 
-<p align="center"><i>⭐️ From <a href="https://github.com/kushtailor">kushtailor</a></i></p>
