@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, I'm Kush Tailor 👋</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | Cybersecurity & Digital Forensics</h3>
 
-## 👋 About Me
+## About Me
 
 I'm a cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, and security research. I enjoy identifying vulnerabilities, understanding attack methodologies, and exploring practical approaches to securing modern applications and networks.
 
 My experience includes performing web application security assessments, vulnerability analysis, reconnaissance, OSINT, and participating in Capture The Flag (CTF) challenges on platforms like Hack The Box and TryHackMe. I have worked with industry-standard tools such as Burp Suite, Nmap, Wireshark, SQLMap, and Kali Linux to strengthen my hands-on security skills.
-
-I believe the best way to learn cybersecurity is through continuous practice, research, and real-world problem solving. Whether analyzing network traffic, testing web applications, or automating tasks with Python and Bash, I'm always looking for opportunities to expand my knowledge and improve my technical abilities.
 
 I'm passionate about contributing to the cybersecurity community, building security-focused projects, and continuously exploring emerging threats, attack techniques, and defensive strategies to help create a more secure digital world.
 
