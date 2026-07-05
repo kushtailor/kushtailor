@@ -22,7 +22,7 @@
 **🛡️ Aegis-AI**
 ML-based Intrusion Detection System combining real-time packet capture, deep packet inspection (DPI), and ML-driven traffic classification — with a full Flask dashboard featuring live packet streaming, top-talkers analysis, and per-packet flow inspection.
 
-**⚡ DHCP Defense Seminar**
+**⚡ DHCP Defense**
 An SDN-based defense system (built on the Ryu/os-ken framework) using XGBoost and Random Forest models to detect DHCP starvation, rogue DHCP servers, and spoofing attacks in real time.
 
 **📦 BlackBox**
@@ -42,19 +42,6 @@ A CLI penetration testing automation framework supporting port scanning, subdoma
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLMap-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushtailor&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushtailor&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushtailor&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
