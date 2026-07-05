@@ -49,5 +49,5 @@ A CLI penetration testing automation framework supporting port scanning, subdoma
 Get In Touch
 
 Email: kushntailor2612@gmail.com
-LinkedIn: kush-tailor
+LinkedIn: https://www.linkedin.com/in/kush-tailor-169a26296/
 
